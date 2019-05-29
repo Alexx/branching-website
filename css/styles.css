@@ -1,3 +1,19 @@
 h1 {
-  color: #ff00ff;
+  color: #808000;
+  text-align: center;
+}
+
+h2 {
+  color: #ADFF2F;
+  text-align: center;
+  font-style: italic;
+  text-shadow: 2px 2px #000;
+}
+
+p {
+  color: #228B22;
+}
+
+body {
+  background-color: #98FB98;
 }
